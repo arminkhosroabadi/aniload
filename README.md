@@ -15,14 +15,9 @@ npm install aniload
 Import the desired loading elements in your files and use them effortlessly:
 
 ```javascript
-import { Bounce, Flow } from "aniload";
+import { Ring } from "aniload";
 // Loading icons
- <Bounce />
- <Flow />
- <Square />
- <Wave />
- <Pulse />
- <ChasingDots />
+ <Ring />
 ```
 
 ## Customization
@@ -30,12 +25,11 @@ import { Bounce, Flow } from "aniload";
 Tailor the loading elements to fit your application's style:
 
 ```javascript
-<Bounce size="40px" color="#f59e0b" animationTime="4" />
+<Bounce size="40px" color="#f59e0b" />
 ```
 
 - **Size:** Set the size of the loading element.
 - **Color:** Customize the color to match your application's palette.
-- **Animation Time (in seconds):** Adjust the animation duration.
 
 ## Contribution Guidelines
 

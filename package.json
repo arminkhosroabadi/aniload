@@ -9,8 +9,20 @@
     "build-storybook": "storybook build",
     "build": "rollup -c"
   },
-  "keywords": ["animation", "icon", "loading", "spinner", "react", "loader-icon", "icon"],
+  "keywords": [
+    "animation",
+    "icon",
+    "loading",
+    "spinner",
+    "react",
+    "loader-icon",
+    "icon"
+  ],
   "author": "Armin Khosroabadi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arminkhosroabadi/aniload.git"
+  },
   "license": "MIT",
   "devDependencies": {
     "@babel/preset-react": "^7.23.3",
