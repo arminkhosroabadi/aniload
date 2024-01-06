@@ -15,7 +15,7 @@ npm install aniload
 Import the desired loading elements in your files and use them effortlessly:
 
 ```javascript
-import { Ring } from "aniload";
+import { Ring, Pulse, CircleBar, SquareDuplication } from "aniload";
 // Loading icons
  <Ring />
  <Pulse />
