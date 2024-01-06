@@ -1,8 +1,8 @@
-import { Ring } from "../components/Ring";
+import { Pulse } from "../components/Pulse";
 
 export default {
-  title: "Loading/Ring",
-  component: Ring,
+  title: "Loading/Pulse",
+  component: Pulse,
   parameters: {
     layout: "centered",
   },
