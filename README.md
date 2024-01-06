@@ -1,4 +1,5 @@
 # AniLoad
+
 AniLoad is a powerful Node.js package that brings life to your application's loading experience with a delightful collection of animated loading elements and icons.
 
 ## Installation
@@ -9,7 +10,6 @@ Install AniLoad using npm:
 npm install aniload
 ```
 
-
 ## Quick Start
 
 Import the desired loading elements in your files and use them effortlessly:
@@ -18,6 +18,9 @@ Import the desired loading elements in your files and use them effortlessly:
 import { Ring } from "aniload";
 // Loading icons
  <Ring />
+ <Pulse />
+ <CircleBar />
+ <SquareDuplication />
 ```
 
 ## Customization
